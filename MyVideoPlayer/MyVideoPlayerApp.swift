@@ -1,10 +1,3 @@
-//
-//  MyVideoPlayerApp.swift
-//  MyVideoPlayer
-//
-//  Created by MacBookAir on 11.02.2024.
-//
-
 import SwiftUI
 
 @main
